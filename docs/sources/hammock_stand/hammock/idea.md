@@ -11,7 +11,7 @@ The only [cheaper](https://www.leroymerlin.es/productos/jardin-y-terraza/muebles
 Or almost the same 50e [here](https://www.manomano.es/p/hamaca-con-soporte-de-madera-y-lona-gris-antracita-tahiti-82022515?model_id=86777179)
 This does not look too stable...
 
-![hammock_stand_example_02](hammock_stand_example_01.png "hammock_stand_example_02")
+![hammock_stand_example_02](hammock_stand_example_02.png "hammock_stand_example_02")
 
 The final idea is inspired by following DIY projects:
 * https://hamacasparadise.com/producto/base-para-hamaca-color-madera/
