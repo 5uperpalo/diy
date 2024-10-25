@@ -1,0 +1,17 @@
+#python
+.venv
+build/
+dist/
+logs/
+__pycache__*
+*.pyc
+*.pyo
+*.key
+*.egg-info
+docs
+
+# jupyter / ipython
+.ipynb_checkpoints
+Untitled*.ipynb
+
+*/.mypy_cache/*
