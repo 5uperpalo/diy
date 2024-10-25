@@ -8,7 +8,6 @@ __pycache__*
 *.pyo
 *.key
 *.egg-info
-docs
 
 # jupyter / ipython
 .ipynb_checkpoints

@@ -2,10 +2,4 @@
 
 Documentation: https://5uperpalo.github.io/diy/
 
-something else will be herrrre
-
-
-unimportant line here
-
-
-tadaaaa
+Site dedicated to my DIY projects.
